@@ -1,8 +1,8 @@
 "use client";
 
 import { useRef, useState, useEffect } from "react";
-import Link from "next/link";
-import Image from "next/image";
+import Link from "../../node_modules/next/link";
+import Image from "../../node_modules/next/image";
 import { ChevronRight, ChevronLeft } from "lucide-react";
 
 // Replace these with your actual image paths
